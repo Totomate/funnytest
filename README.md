@@ -1,0 +1,2 @@
+# funnytest
+Test for website
